@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gugab\\OneDrive\\Documentos\\GitHub\\Python\\Primeiros comandos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE87C3B1-8D0B-484B-9E8B-4FD6A7557A90}|Primeiros comandos.pyproj|C:\\Users\\gugab\\OneDrive\\Documentos\\GitHub\\Python\\Primeiros comandos\\Primeiros_comandos.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE87C3B1-8D0B-484B-9E8B-4FD6A7557A90}|Primeiros comandos.pyproj|solutionrelative:Primeiros_comandos.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primeiros_comandos.py",
+              "DocumentMoniker": "C:\\Users\\gugab\\OneDrive\\Documentos\\GitHub\\Python\\Primeiros comandos\\Primeiros_comandos.py",
+              "RelativeDocumentMoniker": "Primeiros_comandos.py",
+              "ToolTip": "C:\\Users\\gugab\\OneDrive\\Documentos\\GitHub\\Python\\Primeiros comandos\\Primeiros_comandos.py",
+              "RelativeToolTip": "Primeiros_comandos.py",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T18:43:43.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
